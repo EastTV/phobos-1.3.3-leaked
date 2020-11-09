@@ -1,2 +1,2 @@
-person claims this to be a token logger, will check to see if it is
-DO NOT DOWNLOAD THE FILE UNLESS IT IS PROVEN TO BE SAFE BY A TRUSTED SOURCE
+A leak of Phobos 1.3.3
+Could possibly be a token logger, so don't build/run the leak unless it's proven that it is not a token logger.
