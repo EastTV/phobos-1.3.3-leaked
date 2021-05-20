@@ -1,5 +1,3 @@
 A leak of Phobos 1.3.3. 
 
-*probably* not a token logger
-
-a good base if you want to skid off a client because phobos crystalaura is good and is compatible with almost anything and later versions of phobos are known to not be very compatible with other mods due to mixins (although the code is somewhat scuffed, see mixinblock omg)
+deleted as of 20/05/21, use [GoPro's version](https://github.com/Gopro336/RIPPhobos-BUILDABLE_SRC-) instead. If you need help with that make an issue on here.
